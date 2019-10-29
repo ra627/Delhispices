@@ -1,0 +1,21 @@
+
+body {font-family: georgia, serif}
+
+#abt:hover {color:red;font-family:georgia, serif}
+
+#smaller {font-size:11px;font-family:"Georgia", serif}
+
+#toplinks:hover{color:white}
+
+#toplinks {font-family:georgia, serif;color:gray}
+
+#currfamily {font-family:"Georgia", serif}
+
+#logo {position:absolute;left:80px;top:12px}
+
+#indexPage_text { padding-left:1%;padding-right:10% }
+
+#indexPage_discount {position:absolute;top:150px;left:150px;text-align:center; border-radius:5px;
+			  background-color:red;padding:1.5%;color:white;font-size:115%;font-weight:bold}
+
+#confirmPage_bookingtext {position:absolute;left:50%;top:50%}
